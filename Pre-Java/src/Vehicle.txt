@@ -1,0 +1,8 @@
+Car color: RED; ID: 201; Model: CVXNS
+Car color: RED; ID: 221; Model: CVXNS
+Bike color: Black; ID: 202; Model: WRSG
+Bike color: Black; ID: 203; Model: WPXR
+Bike color: Black; ID: 204; Model: WRSG
+
+Is car1 equals to car2? true
+Is bike1 equals to bike2? false
